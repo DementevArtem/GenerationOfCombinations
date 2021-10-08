@@ -1,0 +1,13 @@
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\bin\Debug\netcoreapp3.1\GenerationOfCombinations.exe
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\bin\Debug\netcoreapp3.1\GenerationOfCombinations.deps.json
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\bin\Debug\netcoreapp3.1\GenerationOfCombinations.runtimeconfig.json
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\bin\Debug\netcoreapp3.1\GenerationOfCombinations.runtimeconfig.dev.json
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\bin\Debug\netcoreapp3.1\GenerationOfCombinations.dll
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\bin\Debug\netcoreapp3.1\GenerationOfCombinations.pdb
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.csprojAssemblyReference.cache
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.AssemblyInfoInputs.cache
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.AssemblyInfo.cs
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.dll
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.pdb
+C:\Users\Артем\Source\Repos\GenerationOfCombinations\GenerationOfCombinations\obj\Debug\netcoreapp3.1\GenerationOfCombinations.genruntimeconfig.cache

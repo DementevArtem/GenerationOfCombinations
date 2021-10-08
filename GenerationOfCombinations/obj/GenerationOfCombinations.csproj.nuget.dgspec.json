@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артем\\source\\repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj": {}
+    "C:\\Users\\Артем\\Source\\Repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артем\\source\\repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj": {
+    "C:\\Users\\Артем\\Source\\Repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артем\\source\\repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj",
+        "projectUniqueName": "C:\\Users\\Артем\\Source\\Repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj",
         "projectName": "GenerationOfCombinations",
-        "projectPath": "C:\\Users\\Артем\\source\\repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj",
+        "projectPath": "C:\\Users\\Артем\\Source\\Repos\\GenerationOfCombinations\\GenerationOfCombinations\\GenerationOfCombinations.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артем\\source\\repos\\GenerationOfCombinations\\GenerationOfCombinations\\obj\\",
+        "outputPath": "C:\\Users\\Артем\\Source\\Repos\\GenerationOfCombinations\\GenerationOfCombinations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config",
